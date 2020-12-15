@@ -1,2 +1,2 @@
 # AI-ML-Projects
-This repo contains project created during AI ML course.
+This repo contains project created using Artifical Intelligence and Machine Learning (AI-ML).
